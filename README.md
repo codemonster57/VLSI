@@ -50,4 +50,4 @@ The results of the experimental analysis, CV plots, and findings related to the 
 
 This project is licensed under the [MIT License](LICENSE.md).
 
-Feel free to explore the code and documentation to gain insights into the experimental analysis of MOS Capacitors in Oxide Furnaces as part of the VLSI internship at SCL Mohali. If you have any questions or suggestions, feel free to open an issue or reach out to the contributors.
+Feel free to explore the code and documentation to gain insights into the experimental analysis of MOS Capacitors in Oxide Furnaces as part of the VLSI internship at NIT Silchar. If you have any questions or suggestions, feel free to open an issue or reach out to the contributors.
