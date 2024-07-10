@@ -1,4 +1,4 @@
-# SCL Mohali Internship: Experimental Analysis of MOS Capacitor for Oxide Furnaces
+# NIT Silchar : Experimental Analysis of MOS Capacitor for Oxide Furnaces
 
 ## Project Overview
 
@@ -32,18 +32,18 @@ To use the code in this repository, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/AdarshMishra26/SCL-Project.git
+git clone https://github.com/codemonster57/VLSI?tab=readme-ov-file
 ```
 
 2. Install any necessary dependencies mentioned in the documentation.
 
 ## Usage
 
-Detailed usage instructions and code explanations can be found in the [documentation](D:\Projects\SCL-Project\ReportSCL-Mohali.pdf).
+Detailed usage instructions and code explanations can be found in the [documentation](D:\Projects\SCL-Project\ReportSCL-Silchar.pdf).
 
 ## Results
 
-The results of the experimental analysis, CV plots, and findings related to the identification of fabrication facilities are documented in the [ReportSCL-Mohali.pdf](https://github.com/AdarshMishra26/SCL-Project/blob/main/ReportSCL-Mohali.pdf) directory.
+The results of the experimental analysis, CV plots, and findings related to the identification of fabrication facilities are documented in the [ReportSCL-Silchar.pdf](https://github.com/codemonster57/VLSI/blob/main/ReportSCL-Silchar.pdf) directory.
 
 
 ## License
